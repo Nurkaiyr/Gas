@@ -1,0 +1,14 @@
+c:\users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\MainWindow.g.cs
+c:\users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\App.g.cs
+c:\users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas_MarkupCompile.cache
+c:\users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas_MarkupCompile.lref
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\bin\Debug\Gas.exe.config
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\bin\Debug\Gas.exe
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\bin\Debug\Gas.pdb
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\MainWindow.baml
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.g.resources
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.Properties.Resources.resources
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.csproj.GenerateResource.Cache
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.exe
+C:\Users\1\documents\visual studio 2017\Projects\Gas\Gas\obj\Debug\Gas.pdb
